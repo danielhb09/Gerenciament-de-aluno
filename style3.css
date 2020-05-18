@@ -1,0 +1,37 @@
+body{
+    display: table;
+    background-image: url("2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  *{
+   
+    margin: 30;
+    padding: 30;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  .wrapper{ 
+    
+    position: absolute;
+    
+    width: 250px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .page-header{
+
+   color:white;
+  }
+
+  .form-group{
+    color:white;
+  }
+  p{
+    color:white;
+  }
+ 
